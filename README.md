@@ -1,57 +1,59 @@
-# ⚡ Sujit Kumar | Creative Developer & WebGL Specialist
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=SUJIT%20KUMAR&fontSize=70&animation=fadeIn&fontAlignY=40&fontColor=ffffff" width="100%" />
+</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake" />
+  <b>DESIGN-DRIVEN FRONTEND & WEBGL DEVELOPER</b><br>
+  <i>Crafting immersive, award-style digital experiences using React, Three.js, and custom shaders.</i>
 </p>
 
-### "Code is my tool, design is my language, and the browser is my canvas."
-
-I’m a **Design-driven Frontend & WebGL Developer** with 3+ years of experience crafting immersive, cinematic web experiences. I bridge the gap between creative storytelling and high-performance engineering.
-
----
-
-## 🎨 Creative Engineering
-I specialize in turning static designs into **living, breathing interfaces**. My focus lies at the intersection of aesthetics and math.
-
-* **Immersive 3D:** React Three Fiber, Three.js & Cannon.js.
-* **Visual Logic:** Custom GLSL Shaders, Raymarching, and Post-processing.
-* **Modern Stack:** Next.js, React, TypeScript, and Framer Motion.
-* **Design Mindset:** UI/UX in Figma with a focus on motion and emotion.
+<p align="center">
+  <img src="https://img.shields.io/badge/Awwwards-Inspiration-gold?style=flat-square&logo=awwwards" />
+  <img src="https://img.shields.io/badge/WebGL-Expert-blue?style=flat-square&logo=opengl" />
+  <img src="https://img.shields.io/badge/Creative-Coding-ff69b4?style=flat-square" />
+</p>
 
 ---
 
-## 🛠️ Technical Arsenal
+### ⚡ The Vision
+> "Code is my tool, design is my language, and the browser is my canvas."
 
-| Layer | Technologies |
-| :--- | :--- |
-| **Core** | `JavaScript (ES6+)`, `TypeScript`, `GLSL` |
-| **3D & Math** | `Three.js`, `React Three Fiber`, `Drei`, `Cannon.js`, `WebGPU` |
-| **Frontend** | `Next.js`, `React`, `Tailwind CSS`, `Framer Motion` |
-| **Tools** | `Vercel`, `Git`, `Figma`, `Blender` |
+I don’t just code components — I think in **experiences, motion, and emotion.** I specialize in bridging the gap between aesthetics and high-performance WebGL.
 
 ---
 
-## 🌌 GitHub Activity (The Shader Pulse)
+### 🛠️ The Tech Stack (Creative Engine)
 
+| Core Tech | Creative & 3D | Design & Motion |
+| :--- | :--- | :--- |
+| **Next.js / React** | Three.js / R3F | Framer Motion |
+| **TypeScript** | Custom GLSL Shaders | Figma (UI/UX) |
+| **Node.js** | Raymarching / WebGPU | GSAP Animations |
+
+---
+
+### 🌌 Immersive Contributions
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff" width="45%" />
+</p>
+
+---
+
+### 🎬 Selected Works (Awwward-Level)
+* **[Project One]** - Procedural shader-based interactive universe.
+* **[Project Two]** - High-performance e-commerce with scroll-based 3D storytelling.
+* **[Project Three]** - Minimalist portfolio with premium micro-interactions.
+
+---
+
+### 🌐 Digital Presence
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" />
+<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/YOUR-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
----
-
-## 🕹️ Currently Exploring
-- [ ] **Advanced Shaders:** Mastering procedural noise and fluid simulations.
-- [ ] **WebGPU:** Pushing the boundaries of browser-based rendering.
-- [ ] **Storytelling:** Scroll-bound 3D narratives and micro-interactions.
-
----
-
-## 🤝 Let's Build Something Memorable
-I’m always open to freelance opportunities and creative collaborations that challenge the "standard" web.
-
-[**Portfolio**](https://your-portfolio.com) • [**LinkedIn**](https://linkedin.com/in/your-username) • [**Twitter**](https://twitter.com/your-username) • [**Email**](mailto:your-email@example.com)
 
 <p align="right">
-  <i>Focusing on clean architecture and premium UI/UX.</i>
+  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=white&style=flat-square&label=PROFILE+VIEWS" alt="views" />
 </p>
