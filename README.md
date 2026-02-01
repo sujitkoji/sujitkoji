@@ -3,11 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=120&section=header&text=Sujit%20Kumar&fontSize=42&fontColor=ffffff" />
-</p>
-
-
-<p align="center">
   <b>DESIGN-DRIVEN FRONTEND & WEBGL DEVELOPER</b><br>
   <i>Building immersive, interactive, and award-style web experiences with React, Three.js, and custom shaders.</i>
 </p>
