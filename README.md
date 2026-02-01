@@ -26,9 +26,9 @@ I focus on creating **experience-first websites** where strong visual design mee
 
 | Frontend | 3D & WebGL | Motion & Design |
 | :--- | :--- | :--- |
-| **Next.js / React** | Three.js / R3F | Framer Motion |
-| **TypeScript** | GLSL Shaders | GSAP |
-| **Node.js** | Raymarching | Figma (UI/UX) |
+| **Next.js** | **Three.js / R3F** | **Framer Motion** |
+| **React** | **GLSL Shaders** | **GSAP** |
+| **TypeScript** | **Raymarching** | **Figma (UI/UX)** |
 
 ---
 
