@@ -1,47 +1,57 @@
-# Hi there, I'm [Your Name] 👋
-### Designer & Full-Stack Developer 🚀
+# ⚡ Sujit Kumar | Creative Developer & WebGL Specialist
 
-I bridge the gap between **aesthetics** and **functionality**. With a keen eye for design and a passion for clean code, I build digital experiences that are not only beautiful but also highly performant.
-
----
-
-### 🛠️ My Creative Toolkit
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Design** | Figma, Adobe XD, Photoshop, Framer |
-| **Frontend** | React, Next.js, Tailwind CSS, TypeScript |
-| **Backend** | Node.js, PostgreSQL, MongoDB, Prisma |
-| **Mobile** | React Native, Flutter |
-
----
-
-### 📊 GitHub Stats & Contributions
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-GITHUB-USERNAME]&show_icons=true&theme=transparent&hide_border=true" height="150" alt="stats chart" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-GITHUB-USERNAME]&layout=compact&theme=transparent&hide_border=true" height="150" alt="languages chart" />
-</p>
-
----
-
-### ✨ Notable Projects
-
-* **[Project Name]** - A high-performance web app focused on UX/UI.
-* **[Project Name]** - Award-nominated interface design for e-commerce.
-* **[Project Name]** - Open-source library for minimalist developers.
-
----
-
-### 📫 Let's Connect
-
-<p align="left">
-<a href="https://linkedin.com/in/[YOUR-USERNAME]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[YOUR-USERNAME]" height="30" width="40" /></a>
-<a href="https://twitter.com/[YOUR-USERNAME]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[YOUR-USERNAME]" height="30" width="40" /></a>
-<a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/envelope.svg" alt="Email" height="30" width="40" /></a>
-</p>
-
----
 <p align="center">
-  <i>"Design is not just what it looks like and feels like. Design is how it works."</i>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake" />
+</p>
+
+### "Code is my tool, design is my language, and the browser is my canvas."
+
+I’m a **Design-driven Frontend & WebGL Developer** with 3+ years of experience crafting immersive, cinematic web experiences. I bridge the gap between creative storytelling and high-performance engineering.
+
+---
+
+## 🎨 Creative Engineering
+I specialize in turning static designs into **living, breathing interfaces**. My focus lies at the intersection of aesthetics and math.
+
+* **Immersive 3D:** React Three Fiber, Three.js & Cannon.js.
+* **Visual Logic:** Custom GLSL Shaders, Raymarching, and Post-processing.
+* **Modern Stack:** Next.js, React, TypeScript, and Framer Motion.
+* **Design Mindset:** UI/UX in Figma with a focus on motion and emotion.
+
+---
+
+## 🛠️ Technical Arsenal
+
+| Layer | Technologies |
+| :--- | :--- |
+| **Core** | `JavaScript (ES6+)`, `TypeScript`, `GLSL` |
+| **3D & Math** | `Three.js`, `React Three Fiber`, `Drei`, `Cannon.js`, `WebGPU` |
+| **Frontend** | `Next.js`, `React`, `Tailwind CSS`, `Framer Motion` |
+| **Tools** | `Vercel`, `Git`, `Figma`, `Blender` |
+
+---
+
+## 🌌 GitHub Activity (The Shader Pulse)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" />
+</p>
+
+---
+
+## 🕹️ Currently Exploring
+- [ ] **Advanced Shaders:** Mastering procedural noise and fluid simulations.
+- [ ] **WebGPU:** Pushing the boundaries of browser-based rendering.
+- [ ] **Storytelling:** Scroll-bound 3D narratives and micro-interactions.
+
+---
+
+## 🤝 Let's Build Something Memorable
+I’m always open to freelance opportunities and creative collaborations that challenge the "standard" web.
+
+[**Portfolio**](https://your-portfolio.com) • [**LinkedIn**](https://linkedin.com/in/your-username) • [**Twitter**](https://twitter.com/your-username) • [**Email**](mailto:your-email@example.com)
+
+<p align="right">
+  <i>Focusing on clean architecture and premium UI/UX.</i>
 </p>
