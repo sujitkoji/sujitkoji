@@ -15,7 +15,7 @@
 
 ---
 
-###  Vision
+###    Vision
 > *Code shapes logic. Design shapes emotion. The browser brings them together.*
 
 I focus on creating **experience-first websites** where strong visual design meets performant frontend and WebGL engineering.
