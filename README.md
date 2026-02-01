@@ -15,7 +15,7 @@
 
 ---
 
-### ⚡ Vision
+###  Vision
 > *Code shapes logic. Design shapes emotion. The browser brings them together.*
 
 I focus on creating **experience-first websites** where strong visual design meets performant frontend and WebGL engineering.
@@ -29,14 +29,6 @@ I focus on creating **experience-first websites** where strong visual design mee
 | **Next.js** | **Three.js / R3F** | **Framer Motion** |
 | **React** | **GLSL Shaders** | **GSAP** |
 | **JavaScript / TypeScript** | **Raymarching** | **Figma (UI/UX)** |
-
----
-
-### 🌌 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujitkoji&show_icons=true&theme=transparent&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujitkoji&layout=compact&theme=transparent&hide_border=true" width="45%" />
-</p>
 
 ---
 
@@ -63,4 +55,3 @@ I focus on creating **experience-first websites** where strong visual design mee
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=sujitkoji&color=white&style=flat-square&label=PROFILE+VIEWS" />
 </p>
-![Uploading image.png…]()
