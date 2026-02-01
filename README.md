@@ -28,7 +28,7 @@ I focus on creating **experience-first websites** where strong visual design mee
 | :--- | :--- | :--- |
 | **Next.js** | **Three.js / R3F** | **Framer Motion** |
 | **React** | **GLSL Shaders** | **GSAP** |
-| **TypeScript** | **Raymarching** | **Figma (UI/UX)** |
+| **JavaScript / TypeScript** | **Raymarching** | **Figma (UI/UX)** |
 
 ---
 
