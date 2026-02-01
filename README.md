@@ -55,4 +55,3 @@ I focus on creating **experience-first websites** where strong visual design mee
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=sujitkoji&color=white&style=flat-square&label=PROFILE+VIEWS" />
 </p>
-<img width="805" height="1507" alt="image" src="https://github.com/user-attachments/assets/cf4c2bb7-1e39-44b3-81dd-829cc088ac2a" />
