@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=SUJIT%20KUMAR&fontSize=70&animation=fadeIn&fontAlignY=40&fontColor=ffffff" width="100%" />
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=SUJIT%20KUMAR&fontSize=80&animation=fadeIn&fontAlignY=45&fontColor=ffffff" width="100%" />
+
 <p align="center">
   <b>DESIGN-DRIVEN FRONTEND & WEBGL DEVELOPER</b><br>
   <i>Building immersive, interactive, and award-style web experiences with React, Three.js, and custom shaders.</i>
