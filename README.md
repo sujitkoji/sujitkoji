@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <b>DESIGN-DRIVEN FRONTEND & WEBGL DEVELOPER</b><br>
+  <b> ✦ DESIGN-DRIVEN FRONTEND & WEBGL DEVELOPER</b><br>
   <i>Building immersive, interactive, and award-style web experiences with React, Three.js, and custom shaders.</i>
 </p>
 
@@ -17,7 +17,7 @@
 ---
 
 ### / THE VISION
-> *"Design without motion is static. Logic without art is hollow. I bridge the gap in the browser."*
+> *"Pixels are the medium. Math is the brush. Logic is the canvas."*
 
 I focus on building **experience-first digital products**. My work revolves around creating cinematic 3D environments, custom shader effects, and seamless frontend architectures that feel alive.
 
@@ -25,22 +25,22 @@ I focus on building **experience-first digital products**. My work revolves arou
 
 ### / THE TOOLKIT
 
-<table width="100%">
+<table width="100%" style="border-collapse: collapse;">
   <tr>
-    <td width="33%" align="center" style="border: 1px solid #222;">
-      <code>[ 01. ENGINE ]</code><br/><br/>
-      <b>Next.js & React</b><br/>
-      <i>Scalable Architectures</i>
+    <td width="33.3%" align="center" style="border: 1px solid #1a1a1a; padding: 25px;">
+      <code>[ MODULE_01 ]</code><br/><br/>
+      <b>FOUNDATION</b><br/>
+      <i>Next.js / TypeScript</i>
     </td>
-    <td width="33%" align="center" style="border: 1px solid #222;">
-      <code>[ 02. GRAPHICS ]</code><br/><br/>
-      <b>Three.js & GLSL</b><br/>
-      <i>GPU-Accelerated Visuals</i>
+    <td width="33.3%" align="center" style="border: 1px solid #1a1a1a; padding: 25px;">
+      <code>[ MODULE_02 ]</code><br/><br/>
+      <b>GRAPHICS</b><br/>
+      <i>R3F / GLSL / PBR</i>
     </td>
-    <td width="33%" align="center" style="border: 1px solid #222;">
-      <code>[ 03. MOTION ]</code><br/><br/>
-      <b>GSAP & Framer</b><br/>
-      <i>Cinematic Orchestration</i>
+    <td width="33.3%" align="center" style="border: 1px solid #1a1a1a; padding: 25px;">
+      <code>[ MODULE_03 ]</code><br/><br/>
+      <b>KINETICS</b><br/>
+      <i>GSAP / Motion Engine</i>
     </td>
   </tr>
 </table>
@@ -59,32 +59,32 @@ An immersive atmosphere study featuring volumetric clouds and stochastic lightni
 
 ---
 
-### / INTERFACE
+### / INTERFACE & TRANSMISSION
 
 <table width="100%">
   <tr>
     <td align="center" style="border: none;">
       <a href="https://sujitkoji.com">
-        <img src="https://img.shields.io/badge/EXHIBIT-PORTFOLIO-white?style=flat-square" height="28" />
+        <code>[ EXHIBIT_PORTFOLIO ]</code>
       </a>
     </td>
     <td align="center" style="border: none;">
       <a href="https://www.linkedin.com/in/sujitkoji/">
-        <img src="https://img.shields.io/badge/NETWORK-LINKEDIN-0077B5?style=flat-square" height="28" />
+        <code>[ CONNECT_LINKEDIN ]</code>
       </a>
     </td>
     <td align="center" style="border: none;">
       <a href="mailto:sujitkoji@gmail.com">
-        <img src="https://img.shields.io/badge/INQUIRY-EMAIL-D14836?style=flat-square" height="28" />
+        <code>[ DIRECT_INQUIRY ]</code>
       </a>
     </td>
   </tr>
 </table>
 
-<br />
+---
 
 <p align="right"> 
-  <code>SYSTEM_STATUS: ACTIVE</code> &nbsp; // &nbsp; <code>2026_ARCHIVE</code>
+  <code>SYSTEM_STATUS: OPERATIONAL</code> &nbsp; // &nbsp; <code>2026_ARCHIVE</code> &nbsp; // &nbsp; <img src="https://komarev.com/ghpvc/?username=sujitkoji&color=white&style=flat-square&label=V_LOGS" align="center" />
 </p>
 
 </div>
