@@ -49,11 +49,11 @@ I focus on building **experience-first digital products**. My work revolves arou
 
 ### / ARCHIVE & EXPERIMENTS
 
-#### 01 // [V E S S E L](https://github.com/sujitkoji/vessel-gl)
+#### 01 // [P H A R O S](https://pharos.sujitkoji.com/)
 Ancient maritime simulation with procedural buoyancy and custom water shaders.
 `R3F` `GLSL` `Physics`
 
-#### 02 // [L I G H T H O U S E](https://github.com/sujitkoji/LightHouse-Sujitkoji-Portfolio-Works)
+#### 02 // [L I G H T H O U S E](https://lighthouse.sujitkoji.com/)
 An immersive atmosphere study featuring volumetric clouds and stochastic lightning.
 `Next.js` `Three-Stdlib` `Post-Processing`
 
@@ -64,7 +64,7 @@ An immersive atmosphere study featuring volumetric clouds and stochastic lightni
 <table width="100%">
   <tr>
     <td align="center" style="border: none;">
-      <a href="https://sujitkoji.com">
+      <a href="https://sujitkoji.com/">
         <code>[ EXHIBIT_PORTFOLIO ]</code>
       </a>
     </td>
