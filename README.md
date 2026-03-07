@@ -84,7 +84,7 @@ An immersive atmosphere study featuring volumetric clouds and stochastic lightni
 ---
 
 <p align="right"> 
-  <code>SYSTEM_STATUS: OPERATIONAL</code> &nbsp; // &nbsp; <code>2026_ARCHIVE</code> &nbsp; // &nbsp; <img src="https://komarev.com/ghpvc/?username=sujitkoji&color=white&style=flat-square&label=V_LOGS" align="center" />
+  <code>SYSTEM_STATUS: OPERATIONAL</code> &nbsp; // &nbsp; <code>2026_ARCHIVE</code> &nbsp;
 </p>
 
 </div>
