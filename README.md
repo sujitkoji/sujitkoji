@@ -59,30 +59,6 @@ An immersive atmosphere study featuring volumetric clouds and stochastic lightni
 
 ---
 
-### / INTERFACE & TRANSMISSION
-
-<table width="100%">
-  <tr>
-    <td align="center" style="border: none;">
-      <a href="https://sujitkoji.com/">
-        <code>[ EXHIBIT_PORTFOLIO ]</code>
-      </a>
-    </td>
-    <td align="center" style="border: none;">
-      <a href="https://www.linkedin.com/in/sujitkoji/">
-        <code>[ CONNECT_LINKEDIN ]</code>
-      </a>
-    </td>
-    <td align="center" style="border: none;">
-      <a href="mailto:sujitkoji@gmail.com">
-        <code>[ DIRECT_INQUIRY ]</code>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
 <p align="right"> 
   <code>SYSTEM_STATUS: OPERATIONAL</code> &nbsp; // &nbsp; <code>2026_ARCHIVE</code> &nbsp;
 </p>
