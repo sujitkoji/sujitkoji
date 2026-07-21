@@ -49,11 +49,15 @@ I focus on building **experience-first digital products**. My work revolves arou
 
 ### / ARCHIVE & EXPERIMENTS
 
-#### 01 // [P H A R O S](https://pharos.sujitkoji.com/)
+#### 01 // [G L B K I T](https://www.glbkit.com/)
+Online GLB toolkit for developers — view, inspect, and capture GLB/GLTF/ZIP 3D files directly in browser.
+`Next.js` `Three.js` `WebGL`
+
+#### 02 // [P H A R O S](https://pharos.sujitkoji.com/)
 Ancient maritime simulation with procedural buoyancy and custom water shaders.
 `R3F` `GLSL` `Physics`
 
-#### 02 // [L I G H T H O U S E](https://lighthouse.sujitkoji.com/)
+#### 03 // [L I G H T H O U S E](https://lighthouse.sujitkoji.com/)
 An immersive atmosphere study featuring volumetric clouds and stochastic lightning.
 `Next.js` `Three-Stdlib` `Post-Processing`
 
