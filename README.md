@@ -70,7 +70,7 @@ An immersive atmosphere study featuring volumetric clouds and stochastic lightni
 
 <p align="center">
   <a href="https://github.com/sponsors/sujitkoji">
-    Sponsor on GitHub
+    ❤️ Sponsor on GitHub
   </a>
 </p>
 
