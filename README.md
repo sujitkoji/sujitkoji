@@ -63,8 +63,21 @@ An immersive atmosphere study featuring volumetric clouds and stochastic lightni
 
 ---
 
-<p align="right"> 
-  <code>SYSTEM_STATUS: OPERATIONAL</code> &nbsp; // &nbsp; <code>2026_ARCHIVE</code> &nbsp;
+<p align="center">
+  <b>Support GLBKit</b><br>
+  If you find my work useful, consider sponsoring its development.
+</p>
+
+<p align="center">
+  <a href="https://github.com/sponsors/sujitkoji">
+    Sponsor on GitHub
+  </a>
+</p>
+
+---
+
+<p align="right">
+  <code>SYSTEM_STATUS: OPERATIONAL</code> &nbsp; // &nbsp; <code>2026_ARCHIVE</code>
 </p>
 
 </div>
