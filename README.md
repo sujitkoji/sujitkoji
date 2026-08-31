@@ -50,8 +50,8 @@ I focus on building **experience-first digital products**. My work revolves arou
 ### / ARCHIVE & EXPERIMENTS
 
 #### 01 // [G L B K I T](https://www.glbkit.com/)
-Online GLB toolkit for developers — view, inspect, and capture GLB/GLTF/ZIP 3D files directly in browser.
-`Next.js` `Three.js` `WebGL`
+Browser-based 3D toolkit for viewing, inspecting, capturing, and working with 3D assets - built for modern 3D workflows.
+`Next.js` `TypeScript` `Three.js` `React Three Fiber` `WebGL`
 
 #### 02 // [P H A R O S](https://pharos.sujitkoji.com/)
 Ancient maritime simulation with procedural buoyancy and custom water shaders.
